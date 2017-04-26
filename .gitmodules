@@ -1,0 +1,136 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/mingwandroid/zlib-feedstock
+	branch = cross
+[submodule "xz"]
+	path = xz
+	url = https://github.com/mingwandroid/xz-feedstock
+	branch = cross
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/mingwandroid/bzip2-feedstock
+	branch = cross
+[submodule "libffi"]
+	path = libffi
+	url = https://github.com/mingwandroid/libffi-feedstock
+	branch = cross
+[submodule "ca-certificates"]
+	path = ca-certificates
+	url = https://github.com/mingwandroid/ca-certificates-feedstock
+	branch = cross
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/mingwandroid/openssl-feedstock
+	branch = cross
+[submodule "ncurses"]
+	path = ncurses
+	url = https://github.com/mingwandroid/ncurses-feedstock
+	branch = cross
+[submodule "readline"]
+	path = readline
+	url = https://github.com/mingwandroid/readline-feedstock
+	branch = cross
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/mingwandroid/sqlite-feedstock
+	branch = cross
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/mingwandroid/yaml-feedstock
+	branch = cross
+[submodule "python"]
+	path = python
+	url = https://github.com/mingwandroid/python-feedstock
+	branch = cross
+[submodule "certifi"]
+	path = certifi
+	url = https://github.com/mingwandroid/certifi-feedstock
+	branch = cross
+[submodule "setuptools"]
+	path = setuptools
+	url = https://github.com/mingwandroid/setuptools-feedstock
+	branch = cross
+[submodule "pyparsing"]
+	path = pyparsing
+	url = https://github.com/mingwandroid/pyparsing-feedstock
+	branch = cross
+[submodule "six"]
+	path = six
+	url = https://github.com/mingwandroid/six-feedstock
+	branch = cross
+[submodule "packaging"]
+	path = packaging
+	url = https://github.com/mingwandroid/packaging-feedstock
+	branch = cross
+[submodule "idna"]
+	path = idna
+	url = https://github.com/mingwandroid/idna-feedstock
+	branch = cross
+[submodule "pycparser"]
+	path = pycparser
+	url = https://github.com/mingwandroid/pycparser-feedstock
+	branch = cross
+[submodule "cffi"]
+	path = cffi
+	url = https://github.com/mingwandroid/cffi-feedstock
+	branch = cross
+[submodule "cython"]
+	path = cython
+	url = https://github.com/mingwandroid/cython-feedstock
+	branch = cross
+[submodule "py"]
+	path = py
+	url = https://github.com/mingwandroid/py-feedstock
+	branch = cross
+[submodule "pytest"]
+	path = pytest
+	url = https://github.com/mingwandroid/pytest-feedstock
+	branch = cross
+[submodule "coverage"]
+	path = coverage
+	url = https://github.com/mingwandroid/coverage-feedstock
+	branch = cross
+[submodule "pytest-cov"]
+	path = pytest-cov
+	url = https://github.com/mingwandroid/pytest-cov-feedstock
+	branch = cross
+[submodule "ruamel_yaml"]
+	path = ruamel_yaml
+	url = https://github.com/mingwandroid/ruamel_yaml-feedstock
+	branch = cross
+[submodule "vcversioner"]
+	path = vcversioner
+	url = https://github.com/mingwandroid/vcversioner-feedstock
+	branch = cross
+[submodule "jsonschema"]
+	path = jsonschema
+	url = https://github.com/mingwandroid/jsonschema-feedstock
+	branch = cross
+[submodule "wheel"]
+	path = wheel
+	url = https://github.com/mingwandroid/wheel-feedstock
+	branch = cross
+[submodule "pip"]
+	path = pip
+	url = https://github.com/mingwandroid/pip-feedstock
+	branch = cross
+[submodule "requests"]
+	path = requests
+	url = https://github.com/mingwandroid/requests-feedstock
+	branch = cross
+[submodule "pyopenssl"]
+	path = pyopenssl
+	url = https://github.com/mingwandroid/pyopenssl-feedstock
+	branch = cross
+[submodule "conda-env"]
+	path = conda-env
+	url = https://github.com/mingwandroid/conda-env-feedstock
+	branch = cross
+[submodule "pycosat"]
+	path = pycosat
+	url = https://github.com/mingwandroid/pycosat-feedstock
+	branch = cross
+[submodule "conda"]
+	path = conda
+	url = https://github.com/mingwandroid/conda-feedstock
+	branch = cross
